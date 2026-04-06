@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Site curriculo <a href="https://deborag-alves.github.io/site-curriculo/curriculo.html">(Acessar o site aqui)</a>
 =======
 # 💼 Currículo - Débora Guilherme Alves
