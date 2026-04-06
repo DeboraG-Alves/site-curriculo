@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # Site curriculo <a href="https://deborag-alves.github.io/site-curriculo/curriculo.html">(Acessar o site aqui)</a>
-
-# 💼 Site Currículo - Débora Guilherme Alves
+=======
+# 💼 Currículo - Débora Guilherme Alves
 
 Este é um projeto de site currículo desenvolvido com HTML5 e CSS3, com o objetivo de apresentar minhas habilidades, experiências e projetos como desenvolvedora front-end em formação.
 
